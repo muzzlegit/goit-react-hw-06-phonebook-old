@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+
 import { useSelector, useDispatch  } from "react-redux";
 import { changeFilter } from "../../redux/contacts/contacts-actions";
 import { Container, LabelWrap } from './Filter.styled';
